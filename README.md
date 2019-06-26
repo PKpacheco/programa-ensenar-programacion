@@ -1,1 +1,1 @@
-# programa-escuelas
+# Diapositivas para enseñar programación basica
